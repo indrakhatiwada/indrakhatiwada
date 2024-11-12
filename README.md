@@ -24,7 +24,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=indrakhatiwada&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-Here are some ideas to get you started:
+Current Status:
 
 - 🔭 I’m currently working on agencyCMS
 - 🌱 I’m currently learning golang
