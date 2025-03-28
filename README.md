@@ -26,7 +26,7 @@
 
 Current Status:
 
-- 🔭 I’m currently working on agencyCMS
+- 🔭 I’m currently working on Tauri. 
 - 🌱 I’m currently learning golang
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about JavaScript
